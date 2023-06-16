@@ -16,13 +16,12 @@
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
 	 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &emsp;
 	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> &emsp;
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-	 
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>	 
 </p> 
 </p>
 <br>
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-
+	 <p>[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en" alt="romankoc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark" alt="romankoc" /></p>
   <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en&layout=compact" alt="romankoc" /></p>
