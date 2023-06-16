@@ -33,6 +33,9 @@
       
 
 <br>
+<hr>
+<br>
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Estadisticas
 	 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en)
 ![Racha de contribuciones de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark)
