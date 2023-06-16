@@ -20,8 +20,7 @@
 </p> 
 </p>
 <br>
-	 <p>[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-</p>
+[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en" alt="romankoc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark" alt="romankoc" /></p>
   <p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en&layout=compact" alt="romankoc" /></p>
