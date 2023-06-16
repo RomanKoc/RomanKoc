@@ -21,6 +21,8 @@
 </p>
 
   [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 <br>
 	 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en)
