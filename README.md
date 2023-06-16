@@ -8,7 +8,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi <hr>
 🔭 Actualmente estoy estudiando en 
 
-[Palabra](http://cifppalencia.centros.educa.jcyl.es/sitio/)
+[CIFP Camino de la miranda](http://cifppalencia.centros.educa.jcyl.es/sitio/)
 
 
 
