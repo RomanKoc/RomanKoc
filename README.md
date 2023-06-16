@@ -4,12 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+pagina+de+GitHub;soy+estudiante+...;...+de+FP+de+Grado+Superior+de+DAW;futuro+programador+web!&center=true&width=500&height=45"></a>
 </p>
 
-<hr>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi <hr>
-🏫 Actualmente estoy estudiando en 
-
-[CIFP Camino de la miranda](http://cifppalencia.centros.educa.jcyl.es/sitio/).
-
+🏫 Actualmente estoy estudiando en CIFP Camino de la Miranda.
 🧑‍🎓 Aprendiendo diesño web.<br>
 💻 Me gusta programar y enfrentarme a nuevos desafios.<br>
 🤓 Siempre aprendiendo cosas nuevas.<br>
