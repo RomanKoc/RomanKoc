@@ -19,6 +19,8 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>	 
 </p> 
 </p>
+
+  [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 <br>
 	 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en)
@@ -26,7 +28,7 @@
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en&layout=compact)
 
 
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+
 
 
 
