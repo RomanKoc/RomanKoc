@@ -6,13 +6,13 @@
 
 <hr>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi <hr>
-🔭 Actualmente estoy estudiando en 
+🏫 Actualmente estoy estudiando en 
 
 [CIFP Camino de la miranda](http://cifppalencia.centros.educa.jcyl.es/sitio/).
 
-🧑‍🎓 Aprendiendo diesño web.
-💻 Me gusta programar y enfrentarme a nuevos desafios.
-🤓 Siempre aprendiendo cosas nuevas.
+🧑‍🎓 Aprendiendo diesño web.<br>
+💻 Me gusta programar y enfrentarme a nuevos desafios.<br>
+🤓 Siempre aprendiendo cosas nuevas.<br>
 🤔 Buscando un puesto como desarrollador junior. 
 
 
