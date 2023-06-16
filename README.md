@@ -6,16 +6,8 @@
 
 <hr>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi <hr>
-<ul>
-  <li>🔭 Actualmente estoy estudiando en [Palabra(http://cifppalencia.centros.educa.jcyl.es/sitio/)
-</li>
-  <li>🌱 Actualmente estoy aprendiendo ...</li>
-  <li>👯 Estoy buscando colaborar en ...</li>
-  <li>🤔 Estoy buscando ayuda con ...</li>
-  <li>💬 Pregúntame sobre ...</li>
-  <li>📫 Cómo contactarme: ...</li>
-  <li>😄 Pronombres: ...</li>
-</ul>
+
+[Palabra](http://cifppalencia.centros.educa.jcyl.es/sitio/)
 
 
 <h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
