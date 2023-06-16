@@ -32,7 +32,6 @@
        ![Apple](https://img.shields.io/badge/Apple-MacBook_Air_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
       
 
-<br>
 <hr>
 <br>
 
