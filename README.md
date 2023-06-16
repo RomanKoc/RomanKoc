@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+pagina+de+GitHub;soy+estudiante+...;...+de+FP+de+Grado+Superior+de+DAW;futuro+programador+web!&center=true&width=500&height=45"></a>
 </p>
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi <br>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi <br><br>
 🏫 Actualmente estoy estudiando en CIFP Camino de la Miranda.<br>
 🧑‍🎓 Aprendiendo todo lo relacionado con diesño web.<br>
 💻 Me gusta programar y enfrentarme a nuevos desafios.<br>
