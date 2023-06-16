@@ -1,6 +1,5 @@
 <h3 align="center">¡Hola 👋 Soy Roman 👨🏼‍💻!</h3>
   <p align="center"><strong>Estudiante de FP Superior de Desarrollo de aplicaciones web!</strong></p>
-<h3 align="center">Lenguajes</h3>
 
 ## 🛠️ My Skills
 
