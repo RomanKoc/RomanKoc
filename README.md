@@ -2,7 +2,29 @@
   <p align="center"><strong>Estudiante de FP Superior de Desarrollo de aplicaciones web!</strong></p>
 <h3 align="center">Lenguajes</h3>
 
-<p>[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NSIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDY1IDM1Ij48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSIwIiB5PSIwIiB3aWR0aD0iNjUiIGhlaWdodD0iMzUiIGZpbGw9IiMzMUM0RjMiLz48cmVjdCBjbGFzcz0ic3ZnX19yZWN0IiB4PSI2NSIgeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMzUiIGZpbGw9IiMzODlBRDUiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSJNMTMuNjEgMTkuNTdMMTMuNjEgMTkuNTdMMTUuMDkgMTkuNTdRMTUuMDkgMjAuMjUgMTUuNDMgMjAuNTlRMTUuNzYgMjAuOTMgMTYuNDAgMjAuOTNMMTYuNDAgMjAuOTNRMTcuMDAgMjAuOTMgMTcuMzUgMjAuNTRRMTcuNzEgMjAuMTQgMTcuNzEgMTkuNDVMMTcuNzEgMTkuNDVMMTcuNzEgMTMuNDdMMTkuMTkgMTMuNDdMMTkuMTkgMTkuNDVRMTkuMTkgMjAuNjggMTguNDIgMjEuNDBRMTcuNjYgMjIuMTIgMTYuNDAgMjIuMTJMMTYuNDAgMjIuMTJRMTUuMDcgMjIuMTIgMTQuMzQgMjEuNDRRMTMuNjEgMjAuNzcgMTMuNjEgMTkuNTdaTTI0LjY1IDIyTDIzLjExIDIyTDI2LjMzIDEzLjQ3TDI3LjY2IDEzLjQ3TDMwLjg5IDIyTDI5LjM0IDIyTDI4LjY0IDIwLjAxTDI1LjM0IDIwLjAxTDI0LjY1IDIyWk0yNi45OSAxNS4yOEwyNS43NSAxOC44MkwyOC4yMyAxOC44MkwyNi45OSAxNS4yOFpNMzcuMTQgMjJMMzQuMDggMTMuNDdMMzUuNzAgMTMuNDdMMzcuODUgMjAuMTRMNDAuMDIgMTMuNDdMNDEuNjQgMTMuNDdMMzguNTcgMjJMMzcuMTQgMjJaTTQ2LjM3IDIyTDQ0LjgzIDIyTDQ4LjA2IDEzLjQ3TDQ5LjM5IDEzLjQ3TDUyLjYxIDIyTDUxLjA3IDIyTDUwLjM3IDIwLjAxTDQ3LjA2IDIwLjAxTDQ2LjM3IDIyWk00OC43MiAxNS4yOEw0Ny40OCAxOC44Mkw0OS45NSAxOC44Mkw0OC43MiAxNS4yOFoiIGZpbGw9IiNGRkZGRkYiLz48cGF0aCBjbGFzcz0ic3ZnX190ZXh0IiBkPSIiIGZpbGw9IiNGRkZGRkYiIHg9Ijc4Ii8+PC9zdmc+)](https://forthebadge.com)</p>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+
 
 ## 🛠️ My Skills
 
