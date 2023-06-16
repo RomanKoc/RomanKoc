@@ -41,7 +41,11 @@
 ![Racha de contribuciones de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark)
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en&layout=compact)
 
-
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/RomanKoc/RomanKoc/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 <!--
 **RomanKoc/RomanKoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
