@@ -1,4 +1,4 @@
-<h3 align="center">¡Hey 👋! Soy Roman 👨🏼‍💻/h3>
+<h3 align="center">¡Hey 👋! Soy Roman 👨🏼‍💻</h3>
   <p align="center">Soy <strong>Estudiante de FP Superior de Desarrollo de aplicaciones web!</strong></p>
 <h3 align="center">Languages</h3>
 <p align="center">
