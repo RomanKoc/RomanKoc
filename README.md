@@ -21,9 +21,8 @@
 </p>
 <hr>
 <br>
-	 |                                 |                                 |
-|---------------------------------|---------------------------------|
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en" alt="romankoc" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark" alt="romankoc" /> |
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en" alt="romankoc" /> 
+	 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark" alt="romankoc" /> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en" alt="romankoc" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romankoc&theme=dark" alt="romankoc" /></p>
