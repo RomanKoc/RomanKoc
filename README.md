@@ -2,7 +2,7 @@
   <p align="center"><strong>Estudiante de FP Superior de Desarrollo de aplicaciones web!</strong></p>
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+FP+de+Grado+Superior+de+DAW;La+Programacion+es+mi+pasion%20learning%20new%20things&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+FP+de+Grado+Superior+de+DAW;La+Programacion+es+mi+pasion%&center=true&width=500&height=45"></a>
 </p>
 
 <hr>
