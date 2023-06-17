@@ -1,4 +1,5 @@
-<h3 align="center">¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Roman 👨🏼‍💻!</h3>
+<h3 align="center">¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Roman 👨🏼‍💻![image](https://github.com/RomanKoc/RomanKoc/assets/104156908/d1136ed1-998f-4387-89ac-b532cc99ffdb)
+!</h3>
 
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+pagina+de+GitHub;&center=true&width=500&height=45"></a>
