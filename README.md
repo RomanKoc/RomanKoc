@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+pagina+de+GitHub+:);&center=true&width=500&height=45"></a>
 </p>
-
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h2>
 
 🏫 Actualmente estoy estudiando la FP de grado superior de DAW.<br>
