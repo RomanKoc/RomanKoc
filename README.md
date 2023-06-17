@@ -5,7 +5,7 @@
 </p>
 
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h2>
-🏫 Actualmente estoy estudiando en CIFP Camino de la Miranda.<br>
+🏫 Actualmente estoy estudiando la FP de grado superior de DAW.<br>
 🧑‍🎓 Aprendiendo todo lo relacionado con diesño web.<br>
 💻 Me gusta programar y enfrentarme a nuevos desafios.<br>
 🤓 Siempre aprendiendo cosas nuevas.<br>
