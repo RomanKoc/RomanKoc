@@ -1,11 +1,8 @@
 <h3 align="center">¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Roman 👨🏼‍💻!</h3>
 
-  <p align="center">  	  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com lines=Bienvenido+a+mi+pagina+de+GitHub;&center=true&width=500&height=45"></a>  
-</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenidos+a+mi+pagina+de+GitHub.;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenidos+a+mi+pagina+de+GitHub.;&center=true&width=500&height=45"></a>
 </p>
 
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h2>
