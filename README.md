@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Soy Roman 👨🏼‍💻!</h1>
+<h1 align="center">¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> soy Roman 👨🏼‍💻!</h1>
 
 
 <p align="center">
@@ -6,12 +6,11 @@
 </p>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h2>
 
-🏫 Actualmente estoy estudiando la FP de grado superior de DAW.<br>
-🧑‍🎓 Aprendiendo todo lo relacionado con programacion web.<br>
-💻 Me gusta programar y enfrentarme a nuevos desafios.<br>
-🤓 Siempre aprendiendo cosas nuevas.<br>
-🤔 Busco un puesto como desarrollador junior. 
-
+🏫 Actualmente estoy a punto de completar mi Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web (DAW).<br>
+💻 Disfruto programando y me gusta enfrentarme a nuevos retos.<br>
+🧑‍🎓 Siempre estoy en busca de aprender nuevas habilidades y mantenerme actualizado en las últimas tendencias del desarrollo web.<br>
+🎯 Mi meta actual es dominar las tecnologías de desarrollo full-stack.<br>
+🚀 Mi objetivo es encontrar un puesto como desarrollador junior donde pueda aplicar y seguir desarrollando mis habilidades.
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
