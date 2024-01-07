@@ -48,11 +48,7 @@
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en&layout=compact)
 
 **RomanKoc/RomanKoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">¡Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> soy Roman 👨🏼‍💻!</h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bienvenido+a+mi+pagina+de+GitHub+:);&center=true&width=500&height=45"></a>
-</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
