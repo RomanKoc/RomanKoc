@@ -33,14 +33,13 @@
 ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)<br>
  <!--  ![]() -->
-<hr>
-<h2><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Estadisticas</h2>
-	 
+<hr>	 
 <h2> Contacta conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romankocdev@gmail.com)
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-koc-dev/)
 <br>
+<h2><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Estadisticas</h2>
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en)
 
 <!--
