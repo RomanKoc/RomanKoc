@@ -7,6 +7,7 @@
 💻 Disfruto programando y me gusta enfrentarme a nuevos retos.<br>
 🏫 Actualmente estoy a punto de completar el FP Superior en Desarrollo de Aplicaciones Web.<br>
 🚀 Mi objetivo es encontrar un puesto como desarrollador donde pueda aplicar y seguir desarrollando mis habilidades.
+
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
