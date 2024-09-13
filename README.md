@@ -37,9 +37,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romankocdev@gmail.com)
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-koc-dev/)
 <br>
-
-<h2><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Estadisticas</h2>
-
 <!--
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs?username=romankoc&show_icons=true&theme=dark&title_color=efdb50&locale=en&layout=compact)
 
