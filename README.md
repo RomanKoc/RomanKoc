@@ -5,8 +5,8 @@
 </p>
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h2>
 💻 Disfruto programando y me gusta enfrentarme a nuevos retos.<br>
-🏫 Actualmente estoy a punto de completar el FP Superior en Desarrollo de Aplicaciones Web.<br>
-🚀 Mi objetivo es encontrar un puesto como desarrollador donde pueda aplicar y seguir desarrollando mis habilidades.
+🏫 Actualmente trabajo como desarrollador Frontend para Icon Multimedia.<br>
+🚀 Mi objetivo es aprender un poco más cada día, perfeccionando mis habilidades para ser un desarrollador de gran nivel.
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
