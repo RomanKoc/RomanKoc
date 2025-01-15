@@ -6,7 +6,7 @@
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi </h2>
 💻 Disfruto programando y me gusta enfrentarme a nuevos retos.<br>
 💼 Actualmente trabajo como desarrollador Frontend para Icon Multimedia.<br>
-🚀 Mi objetivo es aprender día a día, perfeccionando mis habilidades para ser un desarrollador de gran nivel.
+🚀 Mi objetivo es aprender día a día, perfeccionando mis habilidades para ser un desarrollador de Full Stack.
 
 <h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
